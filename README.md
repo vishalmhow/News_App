@@ -44,4 +44,4 @@ I am iOS App developer!
 
 # Hi, I'm Vishal! 👋
 
-
+<img src="https://github.com/vishalmhow/NewsApp/blob/main/NewsApp.gif" width="414" height="896" />
